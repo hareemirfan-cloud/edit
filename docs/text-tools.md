@@ -493,6 +493,7 @@
 * [Cava's Pixel Resources](https://caveras.net/) - Pixel Fonts
 * [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/) - Oldschool PC Fonts
 * [FiraCode](https://github.com/tonsky/FiraCode), [Cascadia Code](https://github.com/microsoft/cascadia-code) or [Maple Font](https://github.com/subframe7536/Maple-font) - Monospace Fonts
+* 
 
 ***
 
@@ -587,6 +588,7 @@
 * [NFG's Arcade Font Maker](https://nfggames.com/games/fontmaker/) or [Arcade Font Writer](https://arcade.photonstorm.com/) - Arcade Text Generators
 * [The Ransomizer](https://www.ransomizer.com/) - Ransom Note Style Text
 * [Glitch](https://glitchtextgenerator.com/) - Zalgo Text Generator
+* * ⭐ Online Fonts Generator - Generate styled text, Unicode fonts & copy-paste symbols / https://onlinefontsgenerator.com/
 
 ***
 
